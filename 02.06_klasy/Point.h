@@ -3,10 +3,12 @@
 class Point
 {
 private:
+    static int m_numberOfPoints;
     std::string m_name;
     double m_x;
     double m_y;
 public:
+    static int numberOfPoints();
     Point();
     Point(const std::string& name, double x = 0, double y = 0);
     ~Point();
@@ -16,5 +18,5 @@ public:
     double getY();
     void show() const;
     double distance(const Point& p) const;
-    const Point & distant(const Point& p) const;
+    const Point& distant(const Point& p) const;
 };
