@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/Filip/Desktop/Programowanie/TechInf-Dziedziczenie/cmake-build-debug"
+			"value" : "c:/Users/Filip/Desktop/Programowanie/Tech_inf/TechInf-Dziedziczenie/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -559,7 +559,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Filip/Desktop/Programowanie/TechInf-Dziedziczenie/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/Filip/Desktop/Programowanie/Tech_inf/TechInf-Dziedziczenie/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -631,7 +631,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/Filip/Desktop/Programowanie/TechInf-Dziedziczenie"
+			"value" : "C:/Users/Filip/Desktop/Programowanie/Tech_inf/TechInf-Dziedziczenie"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1267,7 +1267,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Filip/Desktop/Programowanie/TechInf-Dziedziczenie/cmake-build-debug"
+			"value" : "C:/Users/Filip/Desktop/Programowanie/Tech_inf/TechInf-Dziedziczenie/cmake-build-debug"
 		},
 		{
 			"name" : "Inheritance_IS_TOP_LEVEL",
@@ -1291,7 +1291,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Filip/Desktop/Programowanie/TechInf-Dziedziczenie"
+			"value" : "C:/Users/Filip/Desktop/Programowanie/Tech_inf/TechInf-Dziedziczenie"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",

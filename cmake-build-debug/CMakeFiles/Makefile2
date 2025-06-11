@@ -53,10 +53,10 @@ RM = C:\Users\Filip\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\Filip\Desktop\Programowanie\TechInf-Dziedziczenie
+CMAKE_SOURCE_DIR = C:\Users\Filip\Desktop\Programowanie\Tech_inf\TechInf-Dziedziczenie
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\Filip\Desktop\Programowanie\TechInf-Dziedziczenie\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\Filip\Desktop\Programowanie\Tech_inf\TechInf-Dziedziczenie\cmake-build-debug
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -80,14 +80,14 @@ clean: CMakeFiles/Inheritance.dir/clean
 CMakeFiles/Inheritance.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Inheritance.dir\build.make CMakeFiles/Inheritance.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Inheritance.dir\build.make CMakeFiles/Inheritance.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\Filip\Desktop\Programowanie\TechInf-Dziedziczenie\cmake-build-debug\CMakeFiles --progress-num=1,2,3,4,5,6,7 "Built target Inheritance"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\Filip\Desktop\Programowanie\Tech_inf\TechInf-Dziedziczenie\cmake-build-debug\CMakeFiles --progress-num=1,2,3,4,5,6,7 "Built target Inheritance"
 .PHONY : CMakeFiles/Inheritance.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Inheritance.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Filip\Desktop\Programowanie\TechInf-Dziedziczenie\cmake-build-debug\CMakeFiles 7
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Filip\Desktop\Programowanie\Tech_inf\TechInf-Dziedziczenie\cmake-build-debug\CMakeFiles 7
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/Inheritance.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Filip\Desktop\Programowanie\TechInf-Dziedziczenie\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Filip\Desktop\Programowanie\Tech_inf\TechInf-Dziedziczenie\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/Inheritance.dir/rule
 
 # Convenience name for target.

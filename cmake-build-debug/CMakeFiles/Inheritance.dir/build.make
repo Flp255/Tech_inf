@@ -52,10 +52,10 @@ RM = C:\Users\Filip\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\Filip\Desktop\Programowanie\TechInf-Dziedziczenie
+CMAKE_SOURCE_DIR = C:\Users\Filip\Desktop\Programowanie\Tech_inf\TechInf-Dziedziczenie
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\Filip\Desktop\Programowanie\TechInf-Dziedziczenie\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\Filip\Desktop\Programowanie\Tech_inf\TechInf-Dziedziczenie\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Inheritance.dir/depend.make
@@ -69,88 +69,88 @@ include CMakeFiles/Inheritance.dir/progress.make
 include CMakeFiles/Inheritance.dir/flags.make
 
 CMakeFiles/Inheritance.dir/main.cpp.obj: CMakeFiles/Inheritance.dir/flags.make
-CMakeFiles/Inheritance.dir/main.cpp.obj: C:/Users/Filip/Desktop/Programowanie/TechInf-Dziedziczenie/main.cpp
+CMakeFiles/Inheritance.dir/main.cpp.obj: C:/Users/Filip/Desktop/Programowanie/Tech_inf/TechInf-Dziedziczenie/main.cpp
 CMakeFiles/Inheritance.dir/main.cpp.obj: CMakeFiles/Inheritance.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Filip\Desktop\Programowanie\TechInf-Dziedziczenie\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Inheritance.dir/main.cpp.obj"
-	C:\Users\Filip\AppData\Local\Programs\CLion\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Inheritance.dir/main.cpp.obj -MF CMakeFiles\Inheritance.dir\main.cpp.obj.d -o CMakeFiles\Inheritance.dir\main.cpp.obj -c C:\Users\Filip\Desktop\Programowanie\TechInf-Dziedziczenie\main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Filip\Desktop\Programowanie\Tech_inf\TechInf-Dziedziczenie\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Inheritance.dir/main.cpp.obj"
+	C:\Users\Filip\AppData\Local\Programs\CLion\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Inheritance.dir/main.cpp.obj -MF CMakeFiles\Inheritance.dir\main.cpp.obj.d -o CMakeFiles\Inheritance.dir\main.cpp.obj -c C:\Users\Filip\Desktop\Programowanie\Tech_inf\TechInf-Dziedziczenie\main.cpp
 
 CMakeFiles/Inheritance.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Inheritance.dir/main.cpp.i"
-	C:\Users\Filip\AppData\Local\Programs\CLion\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Filip\Desktop\Programowanie\TechInf-Dziedziczenie\main.cpp > CMakeFiles\Inheritance.dir\main.cpp.i
+	C:\Users\Filip\AppData\Local\Programs\CLion\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Filip\Desktop\Programowanie\Tech_inf\TechInf-Dziedziczenie\main.cpp > CMakeFiles\Inheritance.dir\main.cpp.i
 
 CMakeFiles/Inheritance.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Inheritance.dir/main.cpp.s"
-	C:\Users\Filip\AppData\Local\Programs\CLion\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Filip\Desktop\Programowanie\TechInf-Dziedziczenie\main.cpp -o CMakeFiles\Inheritance.dir\main.cpp.s
+	C:\Users\Filip\AppData\Local\Programs\CLion\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Filip\Desktop\Programowanie\Tech_inf\TechInf-Dziedziczenie\main.cpp -o CMakeFiles\Inheritance.dir\main.cpp.s
 
 CMakeFiles/Inheritance.dir/Figure.cpp.obj: CMakeFiles/Inheritance.dir/flags.make
-CMakeFiles/Inheritance.dir/Figure.cpp.obj: C:/Users/Filip/Desktop/Programowanie/TechInf-Dziedziczenie/Figure.cpp
+CMakeFiles/Inheritance.dir/Figure.cpp.obj: C:/Users/Filip/Desktop/Programowanie/Tech_inf/TechInf-Dziedziczenie/Figure.cpp
 CMakeFiles/Inheritance.dir/Figure.cpp.obj: CMakeFiles/Inheritance.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Filip\Desktop\Programowanie\TechInf-Dziedziczenie\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Inheritance.dir/Figure.cpp.obj"
-	C:\Users\Filip\AppData\Local\Programs\CLion\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Inheritance.dir/Figure.cpp.obj -MF CMakeFiles\Inheritance.dir\Figure.cpp.obj.d -o CMakeFiles\Inheritance.dir\Figure.cpp.obj -c C:\Users\Filip\Desktop\Programowanie\TechInf-Dziedziczenie\Figure.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Filip\Desktop\Programowanie\Tech_inf\TechInf-Dziedziczenie\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Inheritance.dir/Figure.cpp.obj"
+	C:\Users\Filip\AppData\Local\Programs\CLion\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Inheritance.dir/Figure.cpp.obj -MF CMakeFiles\Inheritance.dir\Figure.cpp.obj.d -o CMakeFiles\Inheritance.dir\Figure.cpp.obj -c C:\Users\Filip\Desktop\Programowanie\Tech_inf\TechInf-Dziedziczenie\Figure.cpp
 
 CMakeFiles/Inheritance.dir/Figure.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Inheritance.dir/Figure.cpp.i"
-	C:\Users\Filip\AppData\Local\Programs\CLion\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Filip\Desktop\Programowanie\TechInf-Dziedziczenie\Figure.cpp > CMakeFiles\Inheritance.dir\Figure.cpp.i
+	C:\Users\Filip\AppData\Local\Programs\CLion\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Filip\Desktop\Programowanie\Tech_inf\TechInf-Dziedziczenie\Figure.cpp > CMakeFiles\Inheritance.dir\Figure.cpp.i
 
 CMakeFiles/Inheritance.dir/Figure.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Inheritance.dir/Figure.cpp.s"
-	C:\Users\Filip\AppData\Local\Programs\CLion\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Filip\Desktop\Programowanie\TechInf-Dziedziczenie\Figure.cpp -o CMakeFiles\Inheritance.dir\Figure.cpp.s
+	C:\Users\Filip\AppData\Local\Programs\CLion\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Filip\Desktop\Programowanie\Tech_inf\TechInf-Dziedziczenie\Figure.cpp -o CMakeFiles\Inheritance.dir\Figure.cpp.s
 
 CMakeFiles/Inheritance.dir/Rectangle.cpp.obj: CMakeFiles/Inheritance.dir/flags.make
-CMakeFiles/Inheritance.dir/Rectangle.cpp.obj: C:/Users/Filip/Desktop/Programowanie/TechInf-Dziedziczenie/Rectangle.cpp
+CMakeFiles/Inheritance.dir/Rectangle.cpp.obj: C:/Users/Filip/Desktop/Programowanie/Tech_inf/TechInf-Dziedziczenie/Rectangle.cpp
 CMakeFiles/Inheritance.dir/Rectangle.cpp.obj: CMakeFiles/Inheritance.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Filip\Desktop\Programowanie\TechInf-Dziedziczenie\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Inheritance.dir/Rectangle.cpp.obj"
-	C:\Users\Filip\AppData\Local\Programs\CLion\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Inheritance.dir/Rectangle.cpp.obj -MF CMakeFiles\Inheritance.dir\Rectangle.cpp.obj.d -o CMakeFiles\Inheritance.dir\Rectangle.cpp.obj -c C:\Users\Filip\Desktop\Programowanie\TechInf-Dziedziczenie\Rectangle.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Filip\Desktop\Programowanie\Tech_inf\TechInf-Dziedziczenie\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Inheritance.dir/Rectangle.cpp.obj"
+	C:\Users\Filip\AppData\Local\Programs\CLion\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Inheritance.dir/Rectangle.cpp.obj -MF CMakeFiles\Inheritance.dir\Rectangle.cpp.obj.d -o CMakeFiles\Inheritance.dir\Rectangle.cpp.obj -c C:\Users\Filip\Desktop\Programowanie\Tech_inf\TechInf-Dziedziczenie\Rectangle.cpp
 
 CMakeFiles/Inheritance.dir/Rectangle.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Inheritance.dir/Rectangle.cpp.i"
-	C:\Users\Filip\AppData\Local\Programs\CLion\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Filip\Desktop\Programowanie\TechInf-Dziedziczenie\Rectangle.cpp > CMakeFiles\Inheritance.dir\Rectangle.cpp.i
+	C:\Users\Filip\AppData\Local\Programs\CLion\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Filip\Desktop\Programowanie\Tech_inf\TechInf-Dziedziczenie\Rectangle.cpp > CMakeFiles\Inheritance.dir\Rectangle.cpp.i
 
 CMakeFiles/Inheritance.dir/Rectangle.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Inheritance.dir/Rectangle.cpp.s"
-	C:\Users\Filip\AppData\Local\Programs\CLion\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Filip\Desktop\Programowanie\TechInf-Dziedziczenie\Rectangle.cpp -o CMakeFiles\Inheritance.dir\Rectangle.cpp.s
+	C:\Users\Filip\AppData\Local\Programs\CLion\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Filip\Desktop\Programowanie\Tech_inf\TechInf-Dziedziczenie\Rectangle.cpp -o CMakeFiles\Inheritance.dir\Rectangle.cpp.s
 
 CMakeFiles/Inheritance.dir/Square.cpp.obj: CMakeFiles/Inheritance.dir/flags.make
-CMakeFiles/Inheritance.dir/Square.cpp.obj: C:/Users/Filip/Desktop/Programowanie/TechInf-Dziedziczenie/Square.cpp
+CMakeFiles/Inheritance.dir/Square.cpp.obj: C:/Users/Filip/Desktop/Programowanie/Tech_inf/TechInf-Dziedziczenie/Square.cpp
 CMakeFiles/Inheritance.dir/Square.cpp.obj: CMakeFiles/Inheritance.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Filip\Desktop\Programowanie\TechInf-Dziedziczenie\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Inheritance.dir/Square.cpp.obj"
-	C:\Users\Filip\AppData\Local\Programs\CLion\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Inheritance.dir/Square.cpp.obj -MF CMakeFiles\Inheritance.dir\Square.cpp.obj.d -o CMakeFiles\Inheritance.dir\Square.cpp.obj -c C:\Users\Filip\Desktop\Programowanie\TechInf-Dziedziczenie\Square.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Filip\Desktop\Programowanie\Tech_inf\TechInf-Dziedziczenie\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Inheritance.dir/Square.cpp.obj"
+	C:\Users\Filip\AppData\Local\Programs\CLion\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Inheritance.dir/Square.cpp.obj -MF CMakeFiles\Inheritance.dir\Square.cpp.obj.d -o CMakeFiles\Inheritance.dir\Square.cpp.obj -c C:\Users\Filip\Desktop\Programowanie\Tech_inf\TechInf-Dziedziczenie\Square.cpp
 
 CMakeFiles/Inheritance.dir/Square.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Inheritance.dir/Square.cpp.i"
-	C:\Users\Filip\AppData\Local\Programs\CLion\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Filip\Desktop\Programowanie\TechInf-Dziedziczenie\Square.cpp > CMakeFiles\Inheritance.dir\Square.cpp.i
+	C:\Users\Filip\AppData\Local\Programs\CLion\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Filip\Desktop\Programowanie\Tech_inf\TechInf-Dziedziczenie\Square.cpp > CMakeFiles\Inheritance.dir\Square.cpp.i
 
 CMakeFiles/Inheritance.dir/Square.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Inheritance.dir/Square.cpp.s"
-	C:\Users\Filip\AppData\Local\Programs\CLion\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Filip\Desktop\Programowanie\TechInf-Dziedziczenie\Square.cpp -o CMakeFiles\Inheritance.dir\Square.cpp.s
+	C:\Users\Filip\AppData\Local\Programs\CLion\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Filip\Desktop\Programowanie\Tech_inf\TechInf-Dziedziczenie\Square.cpp -o CMakeFiles\Inheritance.dir\Square.cpp.s
 
 CMakeFiles/Inheritance.dir/Circle.cpp.obj: CMakeFiles/Inheritance.dir/flags.make
-CMakeFiles/Inheritance.dir/Circle.cpp.obj: C:/Users/Filip/Desktop/Programowanie/TechInf-Dziedziczenie/Circle.cpp
+CMakeFiles/Inheritance.dir/Circle.cpp.obj: C:/Users/Filip/Desktop/Programowanie/Tech_inf/TechInf-Dziedziczenie/Circle.cpp
 CMakeFiles/Inheritance.dir/Circle.cpp.obj: CMakeFiles/Inheritance.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Filip\Desktop\Programowanie\TechInf-Dziedziczenie\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Inheritance.dir/Circle.cpp.obj"
-	C:\Users\Filip\AppData\Local\Programs\CLion\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Inheritance.dir/Circle.cpp.obj -MF CMakeFiles\Inheritance.dir\Circle.cpp.obj.d -o CMakeFiles\Inheritance.dir\Circle.cpp.obj -c C:\Users\Filip\Desktop\Programowanie\TechInf-Dziedziczenie\Circle.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Filip\Desktop\Programowanie\Tech_inf\TechInf-Dziedziczenie\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Inheritance.dir/Circle.cpp.obj"
+	C:\Users\Filip\AppData\Local\Programs\CLion\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Inheritance.dir/Circle.cpp.obj -MF CMakeFiles\Inheritance.dir\Circle.cpp.obj.d -o CMakeFiles\Inheritance.dir\Circle.cpp.obj -c C:\Users\Filip\Desktop\Programowanie\Tech_inf\TechInf-Dziedziczenie\Circle.cpp
 
 CMakeFiles/Inheritance.dir/Circle.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Inheritance.dir/Circle.cpp.i"
-	C:\Users\Filip\AppData\Local\Programs\CLion\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Filip\Desktop\Programowanie\TechInf-Dziedziczenie\Circle.cpp > CMakeFiles\Inheritance.dir\Circle.cpp.i
+	C:\Users\Filip\AppData\Local\Programs\CLion\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Filip\Desktop\Programowanie\Tech_inf\TechInf-Dziedziczenie\Circle.cpp > CMakeFiles\Inheritance.dir\Circle.cpp.i
 
 CMakeFiles/Inheritance.dir/Circle.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Inheritance.dir/Circle.cpp.s"
-	C:\Users\Filip\AppData\Local\Programs\CLion\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Filip\Desktop\Programowanie\TechInf-Dziedziczenie\Circle.cpp -o CMakeFiles\Inheritance.dir\Circle.cpp.s
+	C:\Users\Filip\AppData\Local\Programs\CLion\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Filip\Desktop\Programowanie\Tech_inf\TechInf-Dziedziczenie\Circle.cpp -o CMakeFiles\Inheritance.dir\Circle.cpp.s
 
 CMakeFiles/Inheritance.dir/Triangle.cpp.obj: CMakeFiles/Inheritance.dir/flags.make
-CMakeFiles/Inheritance.dir/Triangle.cpp.obj: C:/Users/Filip/Desktop/Programowanie/TechInf-Dziedziczenie/Triangle.cpp
+CMakeFiles/Inheritance.dir/Triangle.cpp.obj: C:/Users/Filip/Desktop/Programowanie/Tech_inf/TechInf-Dziedziczenie/Triangle.cpp
 CMakeFiles/Inheritance.dir/Triangle.cpp.obj: CMakeFiles/Inheritance.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Filip\Desktop\Programowanie\TechInf-Dziedziczenie\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Inheritance.dir/Triangle.cpp.obj"
-	C:\Users\Filip\AppData\Local\Programs\CLion\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Inheritance.dir/Triangle.cpp.obj -MF CMakeFiles\Inheritance.dir\Triangle.cpp.obj.d -o CMakeFiles\Inheritance.dir\Triangle.cpp.obj -c C:\Users\Filip\Desktop\Programowanie\TechInf-Dziedziczenie\Triangle.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Filip\Desktop\Programowanie\Tech_inf\TechInf-Dziedziczenie\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Inheritance.dir/Triangle.cpp.obj"
+	C:\Users\Filip\AppData\Local\Programs\CLion\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Inheritance.dir/Triangle.cpp.obj -MF CMakeFiles\Inheritance.dir\Triangle.cpp.obj.d -o CMakeFiles\Inheritance.dir\Triangle.cpp.obj -c C:\Users\Filip\Desktop\Programowanie\Tech_inf\TechInf-Dziedziczenie\Triangle.cpp
 
 CMakeFiles/Inheritance.dir/Triangle.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Inheritance.dir/Triangle.cpp.i"
-	C:\Users\Filip\AppData\Local\Programs\CLion\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Filip\Desktop\Programowanie\TechInf-Dziedziczenie\Triangle.cpp > CMakeFiles\Inheritance.dir\Triangle.cpp.i
+	C:\Users\Filip\AppData\Local\Programs\CLion\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Filip\Desktop\Programowanie\Tech_inf\TechInf-Dziedziczenie\Triangle.cpp > CMakeFiles\Inheritance.dir\Triangle.cpp.i
 
 CMakeFiles/Inheritance.dir/Triangle.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Inheritance.dir/Triangle.cpp.s"
-	C:\Users\Filip\AppData\Local\Programs\CLion\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Filip\Desktop\Programowanie\TechInf-Dziedziczenie\Triangle.cpp -o CMakeFiles\Inheritance.dir\Triangle.cpp.s
+	C:\Users\Filip\AppData\Local\Programs\CLion\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Filip\Desktop\Programowanie\Tech_inf\TechInf-Dziedziczenie\Triangle.cpp -o CMakeFiles\Inheritance.dir\Triangle.cpp.s
 
 # Object files for target Inheritance
 Inheritance_OBJECTS = \
@@ -174,7 +174,7 @@ Inheritance.exe: CMakeFiles/Inheritance.dir/build.make
 Inheritance.exe: CMakeFiles/Inheritance.dir/linkLibs.rsp
 Inheritance.exe: CMakeFiles/Inheritance.dir/objects1.rsp
 Inheritance.exe: CMakeFiles/Inheritance.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\Filip\Desktop\Programowanie\TechInf-Dziedziczenie\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable Inheritance.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\Filip\Desktop\Programowanie\Tech_inf\TechInf-Dziedziczenie\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable Inheritance.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Inheritance.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -186,6 +186,6 @@ CMakeFiles/Inheritance.dir/clean:
 .PHONY : CMakeFiles/Inheritance.dir/clean
 
 CMakeFiles/Inheritance.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\Filip\Desktop\Programowanie\TechInf-Dziedziczenie C:\Users\Filip\Desktop\Programowanie\TechInf-Dziedziczenie C:\Users\Filip\Desktop\Programowanie\TechInf-Dziedziczenie\cmake-build-debug C:\Users\Filip\Desktop\Programowanie\TechInf-Dziedziczenie\cmake-build-debug C:\Users\Filip\Desktop\Programowanie\TechInf-Dziedziczenie\cmake-build-debug\CMakeFiles\Inheritance.dir\DependInfo.cmake "--color=$(COLOR)"
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\Filip\Desktop\Programowanie\Tech_inf\TechInf-Dziedziczenie C:\Users\Filip\Desktop\Programowanie\Tech_inf\TechInf-Dziedziczenie C:\Users\Filip\Desktop\Programowanie\Tech_inf\TechInf-Dziedziczenie\cmake-build-debug C:\Users\Filip\Desktop\Programowanie\Tech_inf\TechInf-Dziedziczenie\cmake-build-debug C:\Users\Filip\Desktop\Programowanie\Tech_inf\TechInf-Dziedziczenie\cmake-build-debug\CMakeFiles\Inheritance.dir\DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/Inheritance.dir/depend
 

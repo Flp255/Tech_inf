@@ -8,12 +8,12 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/Filip/Desktop/Programowanie/TechInf-Dziedziczenie/Circle.cpp" "CMakeFiles/Inheritance.dir/Circle.cpp.obj" "gcc" "CMakeFiles/Inheritance.dir/Circle.cpp.obj.d"
-  "C:/Users/Filip/Desktop/Programowanie/TechInf-Dziedziczenie/Figure.cpp" "CMakeFiles/Inheritance.dir/Figure.cpp.obj" "gcc" "CMakeFiles/Inheritance.dir/Figure.cpp.obj.d"
-  "C:/Users/Filip/Desktop/Programowanie/TechInf-Dziedziczenie/Rectangle.cpp" "CMakeFiles/Inheritance.dir/Rectangle.cpp.obj" "gcc" "CMakeFiles/Inheritance.dir/Rectangle.cpp.obj.d"
-  "C:/Users/Filip/Desktop/Programowanie/TechInf-Dziedziczenie/Square.cpp" "CMakeFiles/Inheritance.dir/Square.cpp.obj" "gcc" "CMakeFiles/Inheritance.dir/Square.cpp.obj.d"
-  "C:/Users/Filip/Desktop/Programowanie/TechInf-Dziedziczenie/Triangle.cpp" "CMakeFiles/Inheritance.dir/Triangle.cpp.obj" "gcc" "CMakeFiles/Inheritance.dir/Triangle.cpp.obj.d"
-  "C:/Users/Filip/Desktop/Programowanie/TechInf-Dziedziczenie/main.cpp" "CMakeFiles/Inheritance.dir/main.cpp.obj" "gcc" "CMakeFiles/Inheritance.dir/main.cpp.obj.d"
+  "C:/Users/Filip/Desktop/Programowanie/Tech_inf/TechInf-Dziedziczenie/Circle.cpp" "CMakeFiles/Inheritance.dir/Circle.cpp.obj" "gcc" "CMakeFiles/Inheritance.dir/Circle.cpp.obj.d"
+  "C:/Users/Filip/Desktop/Programowanie/Tech_inf/TechInf-Dziedziczenie/Figure.cpp" "CMakeFiles/Inheritance.dir/Figure.cpp.obj" "gcc" "CMakeFiles/Inheritance.dir/Figure.cpp.obj.d"
+  "C:/Users/Filip/Desktop/Programowanie/Tech_inf/TechInf-Dziedziczenie/Rectangle.cpp" "CMakeFiles/Inheritance.dir/Rectangle.cpp.obj" "gcc" "CMakeFiles/Inheritance.dir/Rectangle.cpp.obj.d"
+  "C:/Users/Filip/Desktop/Programowanie/Tech_inf/TechInf-Dziedziczenie/Square.cpp" "CMakeFiles/Inheritance.dir/Square.cpp.obj" "gcc" "CMakeFiles/Inheritance.dir/Square.cpp.obj.d"
+  "C:/Users/Filip/Desktop/Programowanie/Tech_inf/TechInf-Dziedziczenie/Triangle.cpp" "CMakeFiles/Inheritance.dir/Triangle.cpp.obj" "gcc" "CMakeFiles/Inheritance.dir/Triangle.cpp.obj.d"
+  "C:/Users/Filip/Desktop/Programowanie/Tech_inf/TechInf-Dziedziczenie/main.cpp" "CMakeFiles/Inheritance.dir/main.cpp.obj" "gcc" "CMakeFiles/Inheritance.dir/main.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.
