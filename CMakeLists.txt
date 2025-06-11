@@ -3,4 +3,8 @@ project(Inheritance)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Inheritance main.cpp Figure.cpp Figure.h Rectangle.cpp Rectangle.h Square.cpp Square.h)
+add_executable(Inheritance main.cpp Figure.cpp Figure.h Rectangle.cpp Rectangle.h Square.cpp Square.h
+        Circle.cpp
+        Circle.h
+        Triangle.cpp
+        Triangle.h)
