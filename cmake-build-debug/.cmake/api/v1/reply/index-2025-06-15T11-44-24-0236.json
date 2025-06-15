@@ -11,15 +11,15 @@
 			"cmake" : "C:/Users/Filip/AppData/Local/Programs/CLion/bin/cmake/win/x64/bin/cmake.exe",
 			"cpack" : "C:/Users/Filip/AppData/Local/Programs/CLion/bin/cmake/win/x64/bin/cpack.exe",
 			"ctest" : "C:/Users/Filip/AppData/Local/Programs/CLion/bin/cmake/win/x64/bin/ctest.exe",
-			"root" : "C:/Users/Filip/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30"
+			"root" : "C:/Users/Filip/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31"
 		},
 		"version" : 
 		{
 			"isDirty" : false,
 			"major" : 3,
-			"minor" : 30,
-			"patch" : 5,
-			"string" : "3.30.5",
+			"minor" : 31,
+			"patch" : 6,
+			"string" : "3.31.6",
 			"suffix" : ""
 		}
 	},
@@ -35,7 +35,7 @@
 			}
 		},
 		{
-			"jsonFile" : "cache-v2-6e773fab95b6fa1e3ba2.json",
+			"jsonFile" : "cache-v2-989ac3db06be480048ee.json",
 			"kind" : "cache",
 			"version" : 
 			{
@@ -44,7 +44,7 @@
 			}
 		},
 		{
-			"jsonFile" : "cmakeFiles-v1-d868bb7715c42348b0b2.json",
+			"jsonFile" : "cmakeFiles-v1-10eb3e5d7ed77be52191.json",
 			"kind" : "cmakeFiles",
 			"version" : 
 			{
@@ -66,7 +66,7 @@
 	{
 		"cache-v2" : 
 		{
-			"jsonFile" : "cache-v2-6e773fab95b6fa1e3ba2.json",
+			"jsonFile" : "cache-v2-989ac3db06be480048ee.json",
 			"kind" : "cache",
 			"version" : 
 			{
@@ -76,7 +76,7 @@
 		},
 		"cmakeFiles-v1" : 
 		{
-			"jsonFile" : "cmakeFiles-v1-d868bb7715c42348b0b2.json",
+			"jsonFile" : "cmakeFiles-v1-10eb3e5d7ed77be52191.json",
 			"kind" : "cmakeFiles",
 			"version" : 
 			{
